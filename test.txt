@@ -1,1 +1,2 @@
-some text for remote repo test 
+some text for remote repo test
+this is the second line
